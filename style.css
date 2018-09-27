@@ -35,8 +35,19 @@ section#details > div {
   
 }
 
-div#one {
+#one {
   width: 25%;
 }
 
+#two {
+  width: 25%;
+}
+
+#three {
+  width: 25%
+}
+
+#four {
+  width: 25%;
+}
 
