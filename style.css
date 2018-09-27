@@ -29,7 +29,7 @@ section#details > div {
   float:left;
 }
 
-section#details > *div {
+section#details > div {
   background-color: blue;
   text-align: center;
   
