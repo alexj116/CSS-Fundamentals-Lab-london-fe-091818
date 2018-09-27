@@ -24,7 +24,7 @@ figcaption {font-size: 14px; text-align: center;}
   
 }
 
-section#details {
+section#details > div {
   display: block;
   float:left;
 }
