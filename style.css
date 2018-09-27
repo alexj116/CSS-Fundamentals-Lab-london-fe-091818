@@ -30,7 +30,9 @@ section#details > div {
 }
 
 section#details > div {
-  background-color: blue
+  background-color: blue;
+  text-align: center;
+  
 }
 
 
